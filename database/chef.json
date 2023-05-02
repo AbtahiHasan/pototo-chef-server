@@ -6,6 +6,7 @@
         "number_of_recipes": "3",
         "likes": "150050",
         "image": "https://pototo-chef.vercel.app/chef-1.jpg",
+        "bio": "Chef Gordon Ramsay: A renowned British chef and television personality, Gordon Ramsay has made a name for himself in the culinary world with his fiery personality and exceptional cooking skills. He has opened several successful restaurants across the globe and has received numerous accolades for his contributions to the industry.",
         "recipes": [
             {
                 "recipe_name": "Bitterballen (Dutch meatballs)",
@@ -37,6 +38,7 @@
         "number_of_recipes": "3",
         "likes": "1158540",
         "image": "https://pototo-chef.vercel.app/chef-2.jpg",
+        "bio": "Chef Julia Child: Widely regarded as one of the most influential chefs of the 20th century, Julia Child was an American chef and television personality who introduced French cuisine to the American public through her popular TV show, The French Chef. She authored several cookbooks and received numerous awards for her contributions to the culinary world.",
         "recipes": [
             {
                 "recipe_name": "Baingan Bharta",
@@ -68,6 +70,7 @@
         "number_of_recipes": "3",
         "likes": "56050",
         "image": "https://pototo-chef.vercel.app/chef-3.jpg",
+        "bio": "Chef Massimo Bottura: An Italian chef and restaurateur, Massimo Bottura is the owner and head chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine and has received numerous awards for his contributions to the industry.",
         "recipes": [
             {
                 "recipe_name": "Baingan Bharta",
@@ -99,6 +102,7 @@
         "number_of_recipes": "5",
         "likes": "11158050",
         "image": "https://pototo-chef.vercel.app/chef-4.jpg",
+        "bio": "Chef Dominique Crenn: A French chef based in the United States, Dominique Crenn is the first female chef in the US to receive three Michelin stars. She is the owner and head chef of Atelier Crenn, a restaurant in San Francisco that offers a unique and creative approach to fine dining.",
         "recipes": [
             {
                 "recipe_name": "Baingan Bharta",
@@ -144,6 +148,7 @@
         "number_of_recipes": "3",
         "likes": "156050",
         "image": "https://pototo-chef.vercel.app/chef-5.jpg",
+        "bio": "Chef Marcus Samuelsson: A Swedish-Ethiopian chef and restaurateur, Marcus Samuelsson is the owner and head chef of several successful restaurants, including Red Rooster in Harlem and Marcus B&P in Newark. He is known for his fusion of traditional African, European, and American cuisine and has received numerous awards for his contributions to the industry.",
         "recipes": [
             {
                 "recipe_name": "Baingan Bharta",
@@ -175,6 +180,7 @@
         "number_of_recipes": "4",
         "likes": "415005",
         "image": "https://pototo-chef.vercel.app/chef-6.jpg",
+        "bio": "Chef José Andrés: A Spanish-American chef and humanitarian, José Andrés is the owner and head chef of several successful restaurants, including Jaleo and minibar by José Andrés. He is also the founder of World Central Kitchen, a non-profit organization that provides food relief to disaster-stricken areas around the world. Andrés has received numerous awards for his contributions to the culinary industry and his philanthropic work.",
         "recipes": [
             {
                 "recipe_name": "Baingan Bharta",
