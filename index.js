@@ -1,16 +1,20 @@
 const express = require("express")
 const path = require("path")
 const app = express()
+const chefs = require("./database/chef.json")
 
 const port = process.env.PORT || 3000
 const publicPath = path.join(__dirname, "./public")
-console.log(publicPath)
-app.use(express.static())
+
+app.use(express.static(publicPath))
 
 app.get("/", (req, res) => {
     res.send("Server is running")
 })
 
+app.get("/chef", (req, res) => {
+    res.send(chefs)
+})
 app.listen(port, () => {
     console.log(`this server running at ${port}`)
 })
