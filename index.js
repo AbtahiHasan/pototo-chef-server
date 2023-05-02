@@ -9,11 +9,9 @@ const publicPath = path.join(__dirname, "./public")
 app.use(cors())
 app.use(express.static(publicPath))
 
-app.get("/", (req, res) => {
-    res.send("Server is running")
-})
 
-app.get("/chef", (req, res) => {
+
+app.get("/", (req, res) => {
     res.send(chefs)
 })
 app.listen(port, () => {
